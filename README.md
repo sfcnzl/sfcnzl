@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sfcnzl better know as Sam
+- 👀 I’m interested in Aviation, Electronics, & Automation (easy to see why I love ArduPilot!!!) 
+- 🌱 I’m currently learning lots, Im a Software Developer by trade so theres always a new langauge to learn. It's what life is all about and keeps it interesting.
+- 💞️ I’m looking to collaborate on ...
+- 📫 Feel free to reach out to me on facebook (https://www.facebook.com/sfcnzl)
