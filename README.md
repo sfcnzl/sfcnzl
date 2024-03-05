@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sfcnzl better known as Sam
 - 👀 I’m interested in Aviation, Electronics, & Automation (easy to see why I love ArduPilot!!!) 
 - 🌱Always learning lots, Im been a Software Developer by trade for twenty years or more but theres always new tips and tricks or a new langauge to learn. It's what life is all about and keeps it interesting.
-- 📫 Feel free to reach out to me on facebook (https://www.facebook.com/sfcnzl)
+- 📫 Feel free to reach out to me on LinkedIn (https://www.linkedin.com/in/sam-cook-b81428aa/)
